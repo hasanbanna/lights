@@ -5,13 +5,13 @@ until the program is halted.
 
 ## How to use
 
-compile the program using:
+compile the program:
 
 ```
 javac Main.java
 ```
 
-Run the program using:
+Run the program:
 
 ```
 java Main [number of lights]
